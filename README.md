@@ -1,12 +1,12 @@
 # Object-Detection-With-Python
-<h1>Requirements</h1>
-<h>Python IDLE</h>
-<h>OpenCV</h>
-<h>NumPy</h>
-<h>ImageAI</h>
+### Requirements
+<li>Python IDLE</li>
+<li>OpenCV</li>
+<li>NumPy</li>
+<li>ImageAI</li>
 
-<h2>
+<h1>
 pip install opencv --python
 pip install numpy
 pip install imageai
-</h2>
+</h1>
