@@ -5,8 +5,11 @@
 <li>NumPy</li>
 <li>ImageAI</li>
 
-<h1>
+<h1> install these libraries using these commands
+```
 pip install opencv --python
 pip install numpy
 pip install imageai
+
+```
 </h1>
